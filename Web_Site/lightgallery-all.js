@@ -1829,7 +1829,7 @@
         thumbMargin: 5,
 
         exThumbImage: false,
-        showThumbByDefault: true,
+        showThumbByDefault: false,
         toogleThumb: true,
         pullCaptionUp: true,
 
