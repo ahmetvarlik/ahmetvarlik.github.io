@@ -1820,7 +1820,7 @@
     var defaults = {
         thumbnail: true,
 
-        animateThumb: true,
+        animateThumb: false,
         currentPagerPosition: 'middle',
 
         thumbWidth: 100,
@@ -1829,7 +1829,7 @@
         thumbMargin: 5,
 
         exThumbImage: false,
-        showThumbByDefault: true,
+        showThumbByDefault: false,
         toogleThumb: true,
         pullCaptionUp: true,
 
