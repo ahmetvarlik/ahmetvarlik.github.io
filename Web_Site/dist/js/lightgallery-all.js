@@ -2651,7 +2651,7 @@
 
     var defaults = {
         scale: 1,
-        zoom: true,
+        zoom: false,
         actualSize: true,
         enableZoomAfter: 300,
         useLeftForZoom: getUseLeft()
