@@ -3270,7 +3270,7 @@
     'use strict';
 
     var defaults = {
-        share: true,
+        share: false,
         facebook: true,
         facebookDropdownText: 'Facebook',
         twitter: true,
