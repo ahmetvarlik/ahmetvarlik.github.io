@@ -37,7 +37,7 @@
         width: '100%',
         addClass: '',
         startClass: 'lg-start-zoom',
-        backdropDuration: 150,
+        backdropDuration: 0,
         hideBarsDelay: 1000,
 
         useLeft: false,
@@ -79,7 +79,7 @@
 
         iframeMaxWidth: '100%',
 
-        download: false,
+        download: true,
         counter: true,
         appendCounterTo: '.lg-toolbar',
 
