@@ -338,11 +338,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 .lg-outer.lg-can-toggle .lg-item {
   padding-bottom: 0;
 }
-.lg-outer.lg-pull-caption-up .lg-sub-html {
-  -webkit-transition: bottom 0s ease;
-  -o-transition: bottom 0s ease;
-  transition: bottom 0s ease;
-}
+
 .lg-outer.lg-pull-caption-up.lg-thumb-open .lg-sub-html {
   bottom: 100px;
 }
