@@ -67,7 +67,7 @@
          * if preload is 2 then 2nd 3rd 5th 6th slides will be preloaded.. ... ...
          *
          */
-        preload: 1,
+        preload: 0,
         showAfterLoad: true,
         selector: '',
         selectWithin: '',
