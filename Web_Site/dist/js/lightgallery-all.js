@@ -38,7 +38,7 @@
         addClass: '',
         startClass: 'lg-start-zoom',
         backdropDuration: 150,
-        hideBarsDelay: 500,
+        hideBarsDelay: 1000,
 
         useLeft: false,
 
