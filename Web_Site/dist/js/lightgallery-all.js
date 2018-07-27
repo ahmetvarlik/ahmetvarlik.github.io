@@ -1818,7 +1818,7 @@
     'use strict';
 
     var defaults = {
-        thumbnail: true,
+        thumbnail: false,
 
         animateThumb: false,
         currentPagerPosition: 'middle',
@@ -1830,20 +1830,20 @@
 
         exThumbImage: false,
         showThumbByDefault: false,
-        toogleThumb: true,
-        pullCaptionUp: true,
+        toogleThumb: false,
+        pullCaptionUp: false,
 
-        enableThumbDrag: true,
-        enableThumbSwipe: true,
+        enableThumbDrag: false,
+        enableThumbSwipe: false,
         swipeThreshold: 50,
 
-        loadYoutubeThumbnail: true,
+        loadYoutubeThumbnail: false,
         youtubeThumbSize: 1,
 
-        loadVimeoThumbnail: true,
+        loadVimeoThumbnail: false,
         vimeoThumbSize: 'thumbnail_small',
 
-        loadDailymotionThumbnail: true
+        loadDailymotionThumbnail: false
     };
 
     var Thumbnail = function(element) {
