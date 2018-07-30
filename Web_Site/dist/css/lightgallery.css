@@ -923,18 +923,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   -moz-backface-visibility: hidden;
   backface-visibility: hidden;
 }
-.lg-css3.lg-fade .lg-item {
-  opacity: 0;
-}
-.lg-css3.lg-fade .lg-item.lg-current {
-  opacity: 1;
-}
-.lg-css3.lg-fade .lg-item.lg-prev-slide, .lg-css3.lg-fade .lg-item.lg-next-slide, .lg-css3.lg-fade .lg-item.lg-current {
-  -webkit-transition: opacity 0.1s ease 0s;
-  -moz-transition: opacity 0.1s ease 0s;
-  -o-transition: opacity 0.1s ease 0s;
-  transition: opacity 0.1s ease 0s;
-}
+
 .lg-css3.lg-slide.lg-use-css3 .lg-item {
   opacity: 0;
 }
