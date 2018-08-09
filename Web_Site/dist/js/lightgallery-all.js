@@ -36,7 +36,6 @@
         height: '100%',
         width: '100%',
         addClass: '',
-        startClass: ,
         backdropDuration: 150,
         hideBarsDelay: 1500,
 
