@@ -46,7 +46,7 @@
         loop: true,
         escKey: true,
         keyPress: true,
-        controls: true,
+        controls: false,
         slideEndAnimatoin: true,
         hideControlOnEnd: false,
         mousewheel: true,
