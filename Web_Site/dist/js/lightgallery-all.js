@@ -50,7 +50,7 @@
         hideControlOnEnd: false,
         mousewheel: true,
 
-        getCaptionFromTitleOrAlt: true,
+        getCaptionFromTitleOrAlt: false,
 
         // .lg-item || '.lg-sub-html'
         appendSubHtmlTo: '.lg-sub-html',
